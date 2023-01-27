@@ -10,7 +10,7 @@ A professional website for a Romanian consulting business, featuring information
 
 ## Lessons Learned:
 
-How to create a static website including webaccesibility for all users
+When creating a static website, I make sure to familiarize myself with HTML and CSS to establish a basic structure and design for the website. I also prioritize web accessibility by providing alternative text for images, using semantic HTML elements, and providing clear and consistent navigation. To ensure compatibility and usability for all users, I test the website on different devices and browsers. To streamline the design process and ensure consistency across different devices, I consider using a CSS framework such as Bootstrap. I also make sure that the website is mobile-responsive and includes mobile-specific features such as click-to-call phone numbers. To guarantee the best user experience, I regularly check for and fix any broken links. To ensure that the website is easily crawlable by search engines, I use proper meta tags and structured data markup.
 
 
 ## Screenshots
