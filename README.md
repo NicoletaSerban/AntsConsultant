@@ -16,12 +16,14 @@ How to create a static website including webaccesibility for all users
 ## Screenshots
 
 <div align="center">
-<img src="" width="200" height="200">
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/102362172/215091546-d13ae7b4-578f-46e9-a938-40c786040c3d.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/102362172/215091612-a22f139b-ceb7-424f-821d-53f884389a60.png" width="200" height="200">
+
 
 </div>
 
-## 🔗 Links
+## 🔗 Links!
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nicoleta-serban.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoletaserban/)
